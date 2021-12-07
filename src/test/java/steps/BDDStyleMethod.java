@@ -45,7 +45,7 @@ public class BDDStyleMethod {
 
     public static void performPostWithBodyParameter(String url){
         HashMap<String,String> postContent = new HashMap<>();
-        postContent.put("id","4");
+        postContent.put("id","6");
         postContent.put("author","Peter");
         postContent.put("title","RestAssured");
 
